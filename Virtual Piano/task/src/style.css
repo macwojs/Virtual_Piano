@@ -1,0 +1,45 @@
+body{
+    background-color: green;
+}
+
+.white-keys kbd{
+    vertical-align: text-bottom;
+    display: inline-block;
+    text-align: center;
+    padding-top: 85px;
+    padding-bottom: 5px;
+    width: 30px;
+    background-color: white;
+    border: 2px solid gray;
+}
+
+.black-keys kbd{
+    color: white;
+    display: inline-block;
+    text-align: center;
+    width: 16px;
+    padding-top: 40px;
+    padding-bottom: 5px;
+    background-color: black;
+    border: 1px solid gray;
+}
+
+.black-keys{
+    margin-top: -109px;
+}
+#w{
+    margin-left: 27px;
+}
+
+#e, #y, #u{
+    margin-left: 16px;
+}
+#t{
+    margin-left: 54px;
+}
+
+.container {
+    width: 263px;
+    height: 100px;
+    margin: 10% auto;
+}
